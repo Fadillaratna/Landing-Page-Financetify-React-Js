@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Financetify Landing Page
+Landing Page of a Fintech Mobile Application "Financetify" With React Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hero
+![image](https://user-images.githubusercontent.com/87308406/155327208-f2040fad-33b6-488b-b3b8-9838fb52984c.png)
 
-## Available Scripts
+## About 
+![image](https://user-images.githubusercontent.com/87308406/155327494-0b784c23-0879-426f-a46c-c4fbbf0a7ef7.png)
 
-In the project directory, you can run:
+## Discover
+![image](https://user-images.githubusercontent.com/87308406/155327548-fa0f102c-02c8-4d02-a75a-6072b89ee70d.png)
 
-### `npm start`
+## Features
+![image](https://user-images.githubusercontent.com/87308406/155327632-a6d71a6e-07cb-445f-93f8-059f0d195d19.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Promotion
+![image](https://user-images.githubusercontent.com/87308406/155327746-a3945006-cab4-4707-8756-57ac9e094bbc.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Footer
+![image](https://user-images.githubusercontent.com/87308406/155329009-e79eb045-926e-477d-ab61-ecadd92e1bf6.png)
 
-### `npm test`
+## Contact
+![image](https://user-images.githubusercontent.com/87308406/155327801-cb41b1b7-ba21-4106-8cfd-2afc886c6cf9.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Responsive 
 
-### `npm run build`
+### Responsive Navbar
+![image](https://user-images.githubusercontent.com/87308406/155327888-f1fc077d-557a-44bd-b859-750bae8cf334.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Responsive Hero
+![image](https://user-images.githubusercontent.com/87308406/155328074-88cdfcb5-3547-4dc7-b428-a858d57fb3c2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Responsive About
+![image](https://user-images.githubusercontent.com/87308406/155328157-1f484a82-d200-41f4-9299-7a668c79a962.png)
+![image](https://user-images.githubusercontent.com/87308406/155328201-aa72749b-aa66-4c01-a944-29d15038937e.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Responsive Discover
+![image](https://user-images.githubusercontent.com/87308406/155328310-a5200f01-ac0c-42f7-a960-1cafddc48fc2.png)
+![image](https://user-images.githubusercontent.com/87308406/155328479-1d4ba279-e04a-4cb9-87ac-63d7837fca1f.png)
 
-### `npm run eject`
+### Responsive Features
+![image](https://user-images.githubusercontent.com/87308406/155328595-628edb10-a089-4c1b-9549-d40fee3a15db.png)
+![image](https://user-images.githubusercontent.com/87308406/155328659-98ba112f-625e-4d6c-ab8f-57f71a3e9c66.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Responsive Promotion
+![image](https://user-images.githubusercontent.com/87308406/155328767-0740a16f-5abc-44a2-b908-ea4e730d0ea5.png)
+![image](https://user-images.githubusercontent.com/87308406/155328799-a8482ee7-3ca1-4e96-b710-42d9ff5a6555.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Responsive Footer
+![image](https://user-images.githubusercontent.com/87308406/155328897-4978e407-e11a-468a-80c9-bfdf4f72e5ce.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Responsive Contact
+![image](https://user-images.githubusercontent.com/87308406/155329264-139dd459-f6f8-4ff8-a8f4-91bc3c14d4fc.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
